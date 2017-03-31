@@ -1,0 +1,251 @@
+
+@charset "utf-8";
+/*global styles here*/
+body {padding:0;
+margin:0;}
+
+/*-- header style--*/
+
+#headerwrap{background:#e6e2e2; 
+width:100%;
+height:108px;
+}
+
+#serch{ background: #FFF url(Images/search1.png) no-repeat ;
+ 
+height:17px;
+width:260px;
+}
+
+#header{ width:940px; 
+margin:0 auto;
+}
+
+#header img {
+float:left; margin-top:15px;}
+
+#header form{  
+margin-top:50px;  
+float:right; 
+background:#e6e2e2; }
+
+/*--Navgation comes here-*/
+#navwrap{background:#000;
+  
+width:100%;}
+#nav{ 
+width:940px;
+height:42px;
+margin:0 auto;}
+
+
+
+#nav ul{ 
+padding:0;
+list-style:none;
+margin:0;
+
+}
+
+#nav ul li{
+float:left;
+list-style:none;
+ 
+ }
+
+#nav ul li a{display:block;
+text-decoration:none;
+font-family:Tahoma, Geneva, sans-serif;
+margin: 10px 0 0 25px;}
+#content h2{margin-top:-15px;}
+
+#content li h3{line-height:0px;}
+
+#nav a:link,#nav a:visited{color:#FFF;}
+
+#nav a:hover,#nav a:active{color:#cfda9f;} 
+/*--banner comes here-*/
+
+#bannerwrap{background:#e6e2e2;  
+width:100%;
+ }
+
+#banner{width:940px;
+padding-top:20px;
+margin:0 auto;}
+
+
+
+/*--content starts here-*/
+
+
+
+#content{width:940px;
+margin:0 auto;
+padding-top:60px;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:15px;
+line-height:23px;
+}
+
+
+ 
+ 
+#contentwrap{ background:#e6e2e2;
+min-height:650px;
+width:100%;}
+.clear{clear:both;}
+
+
+
+#content ul{
+color:#000;
+float:left;
+padding:0;}
+
+#content ul li{list-style:none;
+line-height:30px;
+margin-left:0;
+}
+
+
+ 
+
+#content ul li a{display:block;
+margin:0; 
+text-decoration:none;
+color:#000; }
+
+ 
+ 
+ 
+#sliderwrap{ width:100%;
+padding-top:20px;
+background:#e6e2e2;} 
+
+#slider{width:940px;
+margin:0 auto; }
+
+
+#slider .section{
+	width:220px;
+	float:left;
+	margin-right:20px;
+	}
+
+#slider .nomargin{
+	margin:0;
+	}
+
+.section img{  
+margin:0;
+padding:0;
+    }
+.section h3{
+	padding:0;
+	margin:0;
+	position:relative;
+	top:-52px;
+	text-align:center;
+	font-size:14px;
+	
+}
+
+/*--contact starts here--*/
+#contact1{width:420px;
+float:left; 
+border-right:dotted;}
+
+.text{ width:200px; 
+  float:left;
+  margin-top:40px;
+ 
+   }
+   #height{height:60px;}
+
+.input{float:left;
+margin-bottom:30px;
+margin-top:40px;
+  
+ }
+ 
+#contact .section{width:305px;}
+
+/*--footer starts here--*/
+
+#footerwrap{background:#000;
+padding-bottom:70px;
+width:100%;  }
+#footer{width: 940px; 
+margin:0 auto; 
+color:#FFF;   }
+
+
+
+#footer ul{margin:0; 
+padding:0;} 
+
+#footer ul li{list-style:none;}
+
+#footer ul li a{text-decoration:none;
+
+color:#cfda9f;
+ }
+
+.footerblock{ width:235px; 
+line-height:30px;
+float:left;}
+ 
+.block{width:300px;
+line-height:25px;
+float:left;
+padding-left:30px;}
+
+/*--content for Abhinav services--*/
+
+.move p{ position:relative;
+ top:90px;
+ left:30px; 
+ margin:0; 
+ padding:0;
+ font-size:0.8em;}
+
+ 
+
+#information2 h3{ color: #000;  }
+
+#content img{float:right; margin-left:10px;}
+
+ 
+#information2{ 
+font-family:Tahoma, Geneva, sans-serif;
+width:700px;
+margin-top:20px;
+padding-bottom:20px;
+float:right;}
+
+#information1{ margin-top:10px;}
+
+
+
+ #information2 img{padding-left:0px;
+ padding-bottom:15px;}
+
+
+ 
+
+#text{position:relative; 
+top:430px; 
+left:50px; 
+width:150px;}
+
+#list{ float:left; width:220px; font-family:Tahoma, Geneva, sans-serif; margin-top:15px;}
+
+ .mrgin{margin-top:-10px;}
+
+ #content1{margin-top:50px; padding-bottom:40px;}
+ #content1 p{}
+#content1 img{float:left; margin-right:20px; margin-left:0;}
+
+ 
+ 
